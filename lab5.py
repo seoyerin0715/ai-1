@@ -41,6 +41,7 @@ print("삭제 전 소수 목록 :", prime_list)
 prime_list.remove(3)
 print("삭제 후 소수 목록 :", prime_list)
 '''
+'''
 nations = ['Korea', 'China', 'Russia', 'Malaysia']
 print('국가목록:',nations)
 nations.append('Nepal')
@@ -52,4 +53,7 @@ for nation in targets:
         print(f"{nation} 는(은) 국가 목록에 있습니다.")
     else:
         print(f"{nation} 는(은) 국가 목록에 없습니다.")
+'''
+
+
 
