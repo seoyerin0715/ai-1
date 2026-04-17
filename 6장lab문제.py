@@ -22,7 +22,7 @@ print('China' in capital_dic)
 print('Indonesia' in capital_dic)
 print('Beijing' in capital_dic)
 '''
-
+'''
 fruits_dic={'apple':6000,'melon':3000,'banana':5000,'orange':7000}
 print(fruits_dic.keys())
 print(fruits_dic.values())
