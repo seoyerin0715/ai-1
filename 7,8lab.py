@@ -77,7 +77,7 @@ five_multiples = [random.randrange(0, 101, 5) for _ in range(3)]
 print("0에서 100 이하의 정수 중에서 5의 배수")
 print(five_multiples)
 '''
-
+'''
 import random
 
 numbers = range(1, 11)
@@ -85,3 +85,5 @@ numbers = range(1, 11)
 random_samples = random.sample(numbers, 3)
 
 print(random_samples)
+'''
+
